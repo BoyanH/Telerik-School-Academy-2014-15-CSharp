@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Syntax.Checker\Syntax.Checker\bin\Debug\Syntax.Checker.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Syntax.Checker\Syntax.Checker\bin\Debug\Syntax.Checker.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Syntax.Checker\Syntax.Checker\bin\Debug\Syntax.Checker.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Syntax.Checker\Syntax.Checker\obj\Debug\Syntax.Checker.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Syntax.Checker\Syntax.Checker\obj\Debug\Syntax.Checker.pdb

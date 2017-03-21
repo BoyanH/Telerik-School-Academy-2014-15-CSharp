@@ -1,0 +1,13 @@
+﻿@model IEnumerable<string>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Files</h2>
+
+<ol style="list-style-type: decimal">
+    @foreach (var fileName in Model)
+    {
+        <li>@fileName</li>
+    }
+</ol>

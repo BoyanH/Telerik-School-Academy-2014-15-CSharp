@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\UsersAndGroupsTransactions\UsersAndGroupsTransactions\bin\Debug\UsersAndGroupsTransactions.exe.config
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\UsersAndGroupsTransactions\UsersAndGroupsTransactions\bin\Debug\UsersAndGroupsTransactions.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\UsersAndGroupsTransactions\UsersAndGroupsTransactions\bin\Debug\UsersAndGroupsTransactions.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\UsersAndGroupsTransactions\UsersAndGroupsTransactions\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\UsersAndGroupsTransactions\UsersAndGroupsTransactions\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\UsersAndGroupsTransactions\UsersAndGroupsTransactions\obj\Debug\UsersAndGroupsTransactions.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\UsersAndGroupsTransactions\UsersAndGroupsTransactions\obj\Debug\UsersAndGroupsTransactions.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\UsersAndGroupsTransactions\UsersAndGroupsTransactions\obj\Debug\UsersAndGroupsTransactions.pdb

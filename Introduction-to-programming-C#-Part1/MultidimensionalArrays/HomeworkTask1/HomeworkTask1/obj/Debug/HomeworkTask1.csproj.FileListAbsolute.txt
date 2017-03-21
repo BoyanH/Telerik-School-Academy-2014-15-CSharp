@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\HomeworkTask1\HomeworkTask1\bin\Debug\HomeworkTask1.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\HomeworkTask1\HomeworkTask1\bin\Debug\HomeworkTask1.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\HomeworkTask1\HomeworkTask1\bin\Debug\HomeworkTask1.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\HomeworkTask1\HomeworkTask1\obj\Debug\HomeworkTask1.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\HomeworkTask1\HomeworkTask1\obj\Debug\HomeworkTask1.pdb

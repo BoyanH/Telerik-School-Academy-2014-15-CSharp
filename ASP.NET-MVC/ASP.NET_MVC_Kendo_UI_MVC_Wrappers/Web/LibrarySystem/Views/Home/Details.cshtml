@@ -1,0 +1,17 @@
+﻿@model LibrarySystem.Data.Models.Book
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Book Details</h2>
+
+<div class="jumbotron">
+    <p>@Model.Title</p>
+</div>
+<p><i>by @string.Join(", ", Model.Authors.Select(u => u.Name))</i></p>
+<p><i>ISBN @Model.ISBN</i></p>
+<p><i>Web site: @Model.Website</i></p>
+<br />
+<p>@Model.Description</p>
+<br />
+@Html.ActionLink("Back to books", "Index", "Home")

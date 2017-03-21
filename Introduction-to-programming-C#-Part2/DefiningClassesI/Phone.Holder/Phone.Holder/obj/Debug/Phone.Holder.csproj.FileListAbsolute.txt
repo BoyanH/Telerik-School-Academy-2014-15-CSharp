@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesI\Phone.Holder\Phone.Holder\bin\Debug\Phone.Holder.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesI\Phone.Holder\Phone.Holder\bin\Debug\Phone.Holder.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesI\Phone.Holder\Phone.Holder\bin\Debug\Phone.Holder.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesI\Phone.Holder\Phone.Holder\obj\Debug\Phone.Holder.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesI\Phone.Holder\Phone.Holder\obj\Debug\Phone.Holder.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesI\Phone.Holder\Phone.Holder\obj\Debug\Phone.Holder.csprojResolveAssemblyReference.cache

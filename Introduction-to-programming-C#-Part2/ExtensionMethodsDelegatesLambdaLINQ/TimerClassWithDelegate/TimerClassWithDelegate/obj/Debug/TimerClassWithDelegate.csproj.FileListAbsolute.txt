@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerClassWithDelegate\TimerClassWithDelegate\bin\Debug\TimerClassWithDelegate.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerClassWithDelegate\TimerClassWithDelegate\obj\Debug\TimerClassWithDelegate.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerClassWithDelegate\TimerClassWithDelegate\bin\Debug\TimerClassWithDelegate.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerClassWithDelegate\TimerClassWithDelegate\bin\Debug\TimerClassWithDelegate.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerClassWithDelegate\TimerClassWithDelegate\obj\Debug\TimerClassWithDelegate.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerClassWithDelegate\TimerClassWithDelegate\obj\Debug\TimerClassWithDelegate.pdb

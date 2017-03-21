@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Styler\Text.Styler\bin\Debug\Text.Styler.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Styler\Text.Styler\bin\Debug\Text.Styler.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Styler\Text.Styler\bin\Debug\Text.Styler.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Styler\Text.Styler\obj\Debug\Text.Styler.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Styler\Text.Styler\obj\Debug\Text.Styler.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Styler\Text.Styler\obj\Debug\Text.Styler.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask2\HomeworkTask2\bin\Debug\HomeworkTask2.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask2\HomeworkTask2\bin\Debug\HomeworkTask2.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask2\HomeworkTask2\bin\Debug\HomeworkTask2.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask2\HomeworkTask2\obj\Debug\HomeworkTask2.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask2\HomeworkTask2\obj\Debug\HomeworkTask2.pdb

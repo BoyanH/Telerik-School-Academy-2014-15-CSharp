@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\IEnumarable.Math\IEnumarable.Math\bin\Debug\IEnumarable.Math.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\IEnumarable.Math\IEnumarable.Math\bin\Debug\IEnumarable.Math.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\IEnumarable.Math\IEnumarable.Math\bin\Debug\IEnumarable.Math.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\IEnumarable.Math\IEnumarable.Math\obj\Debug\IE.Math.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\IEnumarable.Math\IEnumarable.Math\obj\Debug\IEnumarable.Math.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\IEnumarable.Math\IEnumarable.Math\obj\Debug\IEnumarable.Math.pdb

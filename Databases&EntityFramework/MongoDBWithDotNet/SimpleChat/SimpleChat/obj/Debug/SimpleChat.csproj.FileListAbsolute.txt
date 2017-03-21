@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe.config
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\bin\Debug\SimpleChat.exe
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\bin\Debug\SimpleChat.pdb
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\bin\Debug\MongoDB.Bson.xml
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\bin\Debug\MongoDB.Driver.xml
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\obj\Debug\SimpleChat.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\obj\Debug\SimpleChat.exe
+C:\Users\Admin\Desktop\C#Databases\MongoDBWithDotNet\SimpleChat\SimpleChat\obj\Debug\SimpleChat.pdb

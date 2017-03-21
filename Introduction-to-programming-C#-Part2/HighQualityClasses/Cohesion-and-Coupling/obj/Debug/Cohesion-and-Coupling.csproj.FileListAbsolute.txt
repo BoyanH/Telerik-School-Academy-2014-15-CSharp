@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityClasses\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityClasses\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb

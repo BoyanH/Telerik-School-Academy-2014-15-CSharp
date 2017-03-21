@@ -1,0 +1,88 @@
+﻿@model IEnumerable<MoviesApp.Models.Movie>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Movies</h2>
+
+@Ajax.ActionLink("Create", "Create", null, new AjaxOptions
+{
+    UpdateTargetId = "AjaxBlock",
+    InsertionMode = InsertionMode.Replace
+}, new { @class = "btn btn-primary" })
+
+<br /><br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Director)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Year)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Studio)
+        </th>
+        <th>
+            Studio Address
+        </th>
+        <th>
+            Leading Male Role
+        </th>
+        <th>
+            Leading Female Role
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Director)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Studio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudioAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeadingMaleRole.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LeadingFemaleRole.Name)
+            </td>
+            <td>
+                @Ajax.ActionLink("Edit", "Edit", new { id = item.MovieId }, new AjaxOptions
+                {
+                    UpdateTargetId = "AjaxBlock",
+                    InsertionMode = InsertionMode.Replace
+                }) |
+                @Ajax.ActionLink("Details", "Details", new { id = item.MovieId }, new AjaxOptions
+                {
+                    UpdateTargetId = "AjaxBlock",
+                    InsertionMode = InsertionMode.Replace
+                }) |
+                @Ajax.ActionLink("Delete", "Delete", new { id = item.MovieId }, new AjaxOptions
+                {
+                    UpdateTargetId = "AjaxBlock",
+                    InsertionMode = InsertionMode.Replace
+                })
+            </td>
+        </tr>
+    }
+</table>
+
+<div id="AjaxBlock"></div>

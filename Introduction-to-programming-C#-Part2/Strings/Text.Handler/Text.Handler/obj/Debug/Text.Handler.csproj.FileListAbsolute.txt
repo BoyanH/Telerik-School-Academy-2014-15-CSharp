@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\Text.Handler\Text.Handler\bin\Debug\Text.Handler.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\Text.Handler\Text.Handler\bin\Debug\Text.Handler.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\Text.Handler\Text.Handler\bin\Debug\Text.Handler.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\Text.Handler\Text.Handler\obj\Debug\Text.Handler.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\MultidimensionalArrays\Text.Handler\Text.Handler\obj\Debug\Text.Handler.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Handler\Text.Handler\bin\Debug\Text.Handler.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Handler\Text.Handler\obj\Debug\Text.Handler.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Handler\Text.Handler\obj\Debug\Text.Handler.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Handler\Text.Handler\bin\Debug\Text.Handler.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Handler\Text.Handler\bin\Debug\Text.Handler.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\ConsoleInputOutput\HomeworkTask6\HomeworkTask6\bin\Debug\HomeworkTask6.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\ConsoleInputOutput\HomeworkTask6\HomeworkTask6\bin\Debug\HomeworkTask6.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\ConsoleInputOutput\HomeworkTask6\HomeworkTask6\bin\Debug\HomeworkTask6.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\ConsoleInputOutput\HomeworkTask6\HomeworkTask6\obj\Debug\HomeworkTask6.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Fundamentals I\ConsoleInputOutput\HomeworkTask6\HomeworkTask6\obj\Debug\HomeworkTask6.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\ConsoleInputOutput\HomeworkTask6\HomeworkTask6\obj\Debug\HomeworkTask6.pdb

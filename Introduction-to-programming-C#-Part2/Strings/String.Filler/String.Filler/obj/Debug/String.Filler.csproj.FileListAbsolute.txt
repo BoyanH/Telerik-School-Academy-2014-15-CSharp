@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Filler\String.Filler\bin\Debug\String.Filler.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Filler\String.Filler\bin\Debug\String.Filler.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Filler\String.Filler\bin\Debug\String.Filler.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Filler\String.Filler\obj\Debug\String.Filler.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Filler\String.Filler\obj\Debug\String.Filler.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Filler\String.Filler\obj\Debug\String.Filler.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Encrypter\String.Encrypter\bin\Debug\String.Encrypter.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Encrypter\String.Encrypter\bin\Debug\String.Encrypter.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Encrypter\String.Encrypter\bin\Debug\String.Encrypter.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Encrypter\String.Encrypter\obj\Debug\String.Encrypter.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Encrypter\String.Encrypter\obj\Debug\String.Encrypter.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Encrypter\String.Encrypter\obj\Debug\String.Encrypter.pdb

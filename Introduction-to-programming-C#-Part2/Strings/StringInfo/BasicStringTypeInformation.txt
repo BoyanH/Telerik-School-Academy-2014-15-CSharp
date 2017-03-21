@@ -1,0 +1,29 @@
+Exercise: Describe the strings in C#. What is typical for the string data type? Describe the most important methods of the String class.
+
+Solution: A String is a sequence of characters, where each character is a Unicode Symbol. This sequence of characters is a read-only one, A.K.A. immutable. The full data type in C# is System.String.
+
+Most important String Methods:
+
+Length - gives the length of the string, or 	count of the  characters it contains;
+
+this[] - returns a character at given index;
+
+Compare(str1, str2) - compares 2 strings, returning <0 if str1 is before str2 (alphabetically), >0 if str1 is after str2 and == if str1 equals str2;
+
+IndexOf(str) - returns the first index position in a string, where str is found;
+
+LastIndexOf(str) - ^ same, but returns last index;
+
+Substring(startIndex, length) - returns a string, which contains n amount of characters from the string the method is called on after the startIndex;
+
+Replace(oldStr, newStr) - replaces all oldStr with newStr in the string the method is called on;
+
+Remove(startIndex, length) - Removes n amount of characters (length) from the string the method is called on, starting from given index (startIndex);
+
+ToLower() - returns the same string, where all characters are lower cased;
+
+ToUpper() - same for upper case;
+
+Trim() - removes spaces and other given chars from the string the method is called on
+
+

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Number.Printer\Number.Printer\bin\Debug\Number.Printer.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Number.Printer\Number.Printer\bin\Debug\Number.Printer.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Number.Printer\Number.Printer\bin\Debug\Number.Printer.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Number.Printer\Number.Printer\obj\Debug\Number.Printer.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Number.Printer\Number.Printer\obj\Debug\Number.Printer.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Number.Printer\Number.Printer\obj\Debug\Number.Printer.csprojResolveAssemblyReference.cache

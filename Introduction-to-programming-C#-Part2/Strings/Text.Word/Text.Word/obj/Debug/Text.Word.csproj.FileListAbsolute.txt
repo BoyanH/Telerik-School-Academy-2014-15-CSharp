@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Word\Text.Word\bin\Debug\Text.Word.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Word\Text.Word\bin\Debug\Text.Word.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Word\Text.Word\bin\Debug\Text.Word.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Word\Text.Word\obj\Debug\Text.Word.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Word\Text.Word\obj\Debug\Text.Word.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Word\Text.Word\obj\Debug\Text.Word.pdb

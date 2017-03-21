@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityMethods\Methods\bin\Debug\Methods.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityMethods\Methods\bin\Debug\Methods.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityMethods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityMethods\Methods\obj\Debug\Methods.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\HighQualityMethods\Methods\obj\Debug\Methods.pdb

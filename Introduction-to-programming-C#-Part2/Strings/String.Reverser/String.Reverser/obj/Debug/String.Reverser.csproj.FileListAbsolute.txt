@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Reverser\String.Reverser\bin\Debug\String.Reverser.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Reverser\String.Reverser\obj\Debug\String.Reverser.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Reverser\String.Reverser\bin\Debug\String.Reverser.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Reverser\String.Reverser\bin\Debug\String.Reverser.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Reverser\String.Reverser\obj\Debug\String.Reverser.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Reverser\String.Reverser\obj\Debug\String.Reverser.pdb

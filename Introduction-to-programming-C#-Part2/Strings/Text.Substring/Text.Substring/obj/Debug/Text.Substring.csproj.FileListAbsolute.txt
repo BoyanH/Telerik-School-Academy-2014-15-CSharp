@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Substring\Text.Substring\bin\Debug\Text.Substring.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Substring\Text.Substring\bin\Debug\Text.Substring.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Substring\Text.Substring\bin\Debug\Text.Substring.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Substring\Text.Substring\obj\Debug\Text.Substring.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Substring\Text.Substring\obj\Debug\Text.Substring.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerWithEvents\TimerWithEvents\bin\Debug\TimerWithEvents.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerWithEvents\TimerWithEvents\bin\Debug\TimerWithEvents.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerWithEvents\TimerWithEvents\bin\Debug\TimerWithEvents.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerWithEvents\TimerWithEvents\obj\Debug\TimerWithEvents.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerWithEvents\TimerWithEvents\obj\Debug\TimerWithEvents.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\TimerWithEvents\TimerWithEvents\obj\Debug\TimerWithEvents.pdb

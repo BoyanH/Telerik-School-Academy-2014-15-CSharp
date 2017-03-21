@@ -1,0 +1,1 @@
+I am using SQL Express, if you are not, fix the connection string accordingly in app.config

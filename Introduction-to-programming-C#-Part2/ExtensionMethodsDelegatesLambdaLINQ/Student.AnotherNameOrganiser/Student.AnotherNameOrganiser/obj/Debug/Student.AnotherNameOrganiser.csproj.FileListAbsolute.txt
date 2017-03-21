@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Student.AnotherNameOrganiser\Student.AnotherNameOrganiser\bin\Debug\Student.AnotherNameOrganiser.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Student.AnotherNameOrganiser\Student.AnotherNameOrganiser\bin\Debug\Student.AnotherNameOrganiser.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Student.AnotherNameOrganiser\Student.AnotherNameOrganiser\bin\Debug\Student.AnotherNameOrganiser.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Student.AnotherNameOrganiser\Student.AnotherNameOrganiser\obj\Debug\Student.AnotherNameOrganiser.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Student.AnotherNameOrganiser\Student.AnotherNameOrganiser\obj\Debug\Student.AnotherNameOrganiser.pdb

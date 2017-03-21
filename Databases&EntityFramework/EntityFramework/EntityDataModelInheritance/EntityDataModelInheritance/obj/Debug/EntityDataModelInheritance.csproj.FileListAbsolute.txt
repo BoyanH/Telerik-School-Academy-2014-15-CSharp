@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\EntityDataModelInheritance\EntityDataModelInheritance\bin\Debug\EntityDataModelInheritance.exe.config
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\EntityDataModelInheritance\EntityDataModelInheritance\bin\Debug\EntityDataModelInheritance.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\EntityDataModelInheritance\EntityDataModelInheritance\bin\Debug\EntityDataModelInheritance.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\EntityDataModelInheritance\EntityDataModelInheritance\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\EntityDataModelInheritance\EntityDataModelInheritance\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\EntityDataModelInheritance\EntityDataModelInheritance\obj\Debug\EntityDataModelInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\EntityDataModelInheritance\EntityDataModelInheritance\obj\Debug\EntityDataModelInheritance.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\EntityDataModelInheritance\EntityDataModelInheritance\obj\Debug\EntityDataModelInheritance.pdb

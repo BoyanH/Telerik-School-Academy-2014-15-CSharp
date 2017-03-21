@@ -1,0 +1,14 @@
+﻿@model IList<TwitterLikeApp.Models.Post>
+@{
+    ViewBag.Title = "Posts Home";
+}
+
+<h2>@ViewBag.Header</h2>
+
+@Html.Partial("_CreatePostPartial", new TwitterLikeApp.Models.Post())
+
+@foreach (TwitterLikeApp.Models.Post post in Model)
+{
+    @Html.Partial("_UIPostPartial", post);
+}
+

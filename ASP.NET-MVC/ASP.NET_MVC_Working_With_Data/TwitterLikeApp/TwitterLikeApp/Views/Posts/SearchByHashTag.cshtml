@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Search Posts By Hash Tag";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("ByHashTag", "Posts", FormMethod.Get))
+{
+    @Html.Label("hashTag", new { @class="col-md-2 control-label" })
+    <div class="col-md-10">
+        <input type="text" name="hashTag" placeholder="Enter a Hash Tag" />
+        <input type="submit" value="Search" class="btn btn-info btn-md" />
+    </div>
+}
+

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Word.Organiser\Word.Organiser\bin\Debug\Word.Organiser.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Word.Organiser\Word.Organiser\bin\Debug\Word.Organiser.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Word.Organiser\Word.Organiser\bin\Debug\Word.Organiser.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Word.Organiser\Word.Organiser\obj\Debug\Word.Organiser.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Word.Organiser\Word.Organiser\obj\Debug\Word.Organiser.pdb

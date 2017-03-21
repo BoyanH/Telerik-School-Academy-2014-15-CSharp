@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\ConditionalStatements\HomeworkTask3\HomeworkTask3\bin\Debug\HomeworkTask3.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\ConditionalStatements\HomeworkTask3\HomeworkTask3\bin\Debug\HomeworkTask3.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\ConditionalStatements\HomeworkTask3\HomeworkTask3\bin\Debug\HomeworkTask3.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\ConditionalStatements\HomeworkTask3\HomeworkTask3\obj\Debug\HomeworkTask3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Fundamentals I\ConditionalStatements\HomeworkTask3\HomeworkTask3\obj\Debug\HomeworkTask3.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\ConditionalStatements\HomeworkTask3\HomeworkTask3\obj\Debug\HomeworkTask3.pdb

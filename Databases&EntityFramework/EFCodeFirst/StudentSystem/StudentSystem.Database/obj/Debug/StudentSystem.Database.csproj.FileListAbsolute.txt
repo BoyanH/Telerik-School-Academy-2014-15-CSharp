@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\StudentSystem.Database.dll.config
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\StudentSystem.Database.dll
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\StudentSystem.Database.pdb
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\StudentSystem.Models.dll
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\StudentSystem.Models.pdb
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\obj\Debug\StudentSystem.Database.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\obj\Debug\StudentSystem.Database.dll
+C:\Users\Admin\Desktop\C#Databases\EFCodeFirst\StudentSystem\StudentSystem.Database\obj\Debug\StudentSystem.Database.pdb

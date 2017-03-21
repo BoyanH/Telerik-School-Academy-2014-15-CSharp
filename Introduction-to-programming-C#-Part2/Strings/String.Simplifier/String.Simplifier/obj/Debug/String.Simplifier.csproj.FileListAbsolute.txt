@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Simplifier\String.Simplifier\bin\Debug\String.Simplifier.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Simplifier\String.Simplifier\bin\Debug\String.Simplifier.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Simplifier\String.Simplifier\bin\Debug\String.Simplifier.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Simplifier\String.Simplifier\obj\Debug\String.Simplifier.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.Simplifier\String.Simplifier\obj\Debug\String.Simplifier.pdb

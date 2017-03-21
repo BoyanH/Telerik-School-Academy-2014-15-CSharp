@@ -1,0 +1,5 @@
+﻿No code in homework really, so I figured I will just copy the results of each task (for some I needed to detach the DB without it being stated in the instructions). Everybody who did the homework should know it's all alright ;)
+
+Домашното не включваше писане на код, така че реших просто да копирам резултатите от всяка задача. За някои от тях трябваше да детачна базата, без да е казано изрично в задачата, но мисля, че това е единствения начин да докажа, че съм се постарал ;)
+
+Diese Hausaufgabe war eigentlich sehr komisch, keine Ahnung wie ich prüfen soll, dass ich alles richtig getan habe. Deswegen habe ich einfach die Folden hier kopiert, ich hoffe, dass das ist alles, was von mir erwartet ist. Einige DBs habe ich detached, obwohl es nicht in der Aufgaben steht, nur um die beide DB Files zu kriegen ;)

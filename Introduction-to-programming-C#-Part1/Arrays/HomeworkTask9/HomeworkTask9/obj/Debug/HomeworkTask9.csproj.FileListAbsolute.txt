@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\Arrays\HomeworkTask9\HomeworkTask9\bin\Debug\HomeworkTask9.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\Arrays\HomeworkTask9\HomeworkTask9\bin\Debug\HomeworkTask9.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\Arrays\HomeworkTask9\HomeworkTask9\bin\Debug\HomeworkTask9.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\Arrays\HomeworkTask9\HomeworkTask9\obj\Debug\HomeworkTask9.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\Arrays\HomeworkTask9\HomeworkTask9\obj\Debug\HomeworkTask9.pdb

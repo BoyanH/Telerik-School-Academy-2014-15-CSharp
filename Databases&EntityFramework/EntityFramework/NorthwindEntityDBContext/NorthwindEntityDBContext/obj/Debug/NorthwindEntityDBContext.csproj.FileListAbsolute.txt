@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\bin\Debug\NorthwindEntityDBContext.exe.config
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\bin\Debug\NorthwindEntityDBContext.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\bin\Debug\NorthwindEntityDBContext.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\obj\Debug\NorthwindEntityDBContext.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\obj\Debug\NorthwindEntityDBContext.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindEntityDBContext\NorthwindEntityDBContext\obj\Debug\NorthwindEntityDBContext.csprojResolveAssemblyReference.cache

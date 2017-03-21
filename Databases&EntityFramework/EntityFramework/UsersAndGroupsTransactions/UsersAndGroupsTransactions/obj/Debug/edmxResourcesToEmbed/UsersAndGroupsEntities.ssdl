@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UsersAndGroupsDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="UsersAndGroupsDBModelStoreContainer">
+    <EntitySet Name="Groups" EntityType="UsersAndGroupsDBModel.Store.Groups" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="UsersAndGroupsDBModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserGroups" EntityType="UsersAndGroupsDBModel.Store.UserGroups" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="UsersAndGroupsDBModel.Store.Users" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_UserGroups_Groups" Association="UsersAndGroupsDBModel.Store.FK_UserGroups_Groups">
+      <End Role="Groups" EntitySet="Groups" />
+      <End Role="UserGroups" EntitySet="UserGroups" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserGroups_Users" Association="UsersAndGroupsDBModel.Store.FK_UserGroups_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserGroups" EntitySet="UserGroups" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Groups">
+    <Key>
+      <PropertyRef Name="GroupID" />
+    </Key>
+    <Property Name="GroupID" Type="int" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="UserGroups">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="GroupID" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" />
+    <Property Name="Age" Type="smallint" />
+  </EntityType>
+  <Association Name="FK_UserGroups_Groups">
+    <End Role="Groups" Type="UsersAndGroupsDBModel.Store.Groups" Multiplicity="0..1" />
+    <End Role="UserGroups" Type="UsersAndGroupsDBModel.Store.UserGroups" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Groups">
+        <PropertyRef Name="GroupID" />
+      </Principal>
+      <Dependent Role="UserGroups">
+        <PropertyRef Name="GroupID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserGroups_Users">
+    <End Role="Users" Type="UsersAndGroupsDBModel.Store.Users" Multiplicity="0..1" />
+    <End Role="UserGroups" Type="UsersAndGroupsDBModel.Store.UserGroups" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="UserGroups">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

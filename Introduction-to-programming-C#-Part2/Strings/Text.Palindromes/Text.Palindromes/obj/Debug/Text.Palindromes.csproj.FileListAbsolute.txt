@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Palindromes\Text.Palindromes\bin\Debug\Text.Palindromes.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Palindromes\Text.Palindromes\bin\Debug\Text.Palindromes.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Palindromes\Text.Palindromes\bin\Debug\Text.Palindromes.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Palindromes\Text.Palindromes\obj\Debug\Text.Palindromes.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Palindromes\Text.Palindromes\obj\Debug\Text.Palindromes.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Text.Palindromes\Text.Palindromes\obj\Debug\Text.Palindromes.csprojResolveAssemblyReference.cache

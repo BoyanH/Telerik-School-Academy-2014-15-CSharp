@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.UnicodeConverter\String.UnicodeConverter\bin\Debug\String.UnicodeConverter.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.UnicodeConverter\String.UnicodeConverter\bin\Debug\String.UnicodeConverter.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.UnicodeConverter\String.UnicodeConverter\bin\Debug\String.UnicodeConverter.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.UnicodeConverter\String.UnicodeConverter\obj\Debug\String.UnicodeConverter.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\String.UnicodeConverter\String.UnicodeConverter\obj\Debug\String.UnicodeConverter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\File.Downloader\File.Downloader\bin\Debug\File.Downloader.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\File.Downloader\File.Downloader\bin\Debug\File.Downloader.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\File.Downloader\File.Downloader\bin\Debug\File.Downloader.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\File.Downloader\File.Downloader\bin\Debug\File.Downloader.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\File.Downloader\File.Downloader\obj\Debug\File.Downloader.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\File.Downloader\File.Downloader\obj\Debug\File.Downloader.pdb

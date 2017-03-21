@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Path.Reader\Path.Reader\bin\Debug\Path.Reader.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Path.Reader\Path.Reader\bin\Debug\Path.Reader.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Path.Reader\Path.Reader\bin\Debug\Path.Reader.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Path.Reader\Path.Reader\obj\Debug\Path.Reader.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Path.Reader\Path.Reader\obj\Debug\Path.Reader.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Path.Reader\Path.Reader\obj\Debug\Path.Reader.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Path.Reader\Path.Reader\bin\Debug\Path.Reader.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Path.Reader\Path.Reader\obj\Debug\Path.Reader.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Path.Reader\Path.Reader\obj\Debug\Path.Reader.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Path.Reader\Path.Reader\bin\Debug\Path.Reader.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Path.Reader\Path.Reader\bin\Debug\Path.Reader.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Path.Reader\Path.Reader\obj\Debug\Path.Reader.csprojResolveAssemblyReference.cache

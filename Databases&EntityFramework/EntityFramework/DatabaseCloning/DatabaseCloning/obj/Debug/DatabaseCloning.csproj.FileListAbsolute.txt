@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\DatabaseCloning\DatabaseCloning\bin\Debug\DatabaseCloning.exe.config
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\DatabaseCloning\DatabaseCloning\bin\Debug\DatabaseCloning.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\DatabaseCloning\DatabaseCloning\bin\Debug\DatabaseCloning.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\DatabaseCloning\DatabaseCloning\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\DatabaseCloning\DatabaseCloning\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\DatabaseCloning\DatabaseCloning\obj\Debug\DatabaseCloning.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\DatabaseCloning\DatabaseCloning\obj\Debug\DatabaseCloning.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\DatabaseCloning\DatabaseCloning\obj\Debug\DatabaseCloning.pdb

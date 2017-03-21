@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask13\HomeworkTask13\bin\Debug\HomeworkTask13.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask13\HomeworkTask13\bin\Debug\HomeworkTask13.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask13\HomeworkTask13\bin\Debug\HomeworkTask13.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask13\HomeworkTask13\obj\Debug\HomeworkTask13.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask13\HomeworkTask13\obj\Debug\HomeworkTask13.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask13\HomeworkTask13\obj\Debug\HomeworkTask13.csprojResolveAssemblyReference.cache

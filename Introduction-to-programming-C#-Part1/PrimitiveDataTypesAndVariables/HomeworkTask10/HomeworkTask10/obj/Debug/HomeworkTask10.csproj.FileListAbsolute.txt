@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask10\HomeworkTask10\bin\Debug\HomeworkTask10.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask10\HomeworkTask10\obj\Debug\HomeworkTask10.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask10\HomeworkTask10\bin\Debug\HomeworkTask10.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask10\HomeworkTask10\bin\Debug\HomeworkTask10.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask10\HomeworkTask10\obj\Debug\HomeworkTask10.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\PrimitiveDataTypesAndVariables\HomeworkTask10\HomeworkTask10\obj\Debug\HomeworkTask10.pdb

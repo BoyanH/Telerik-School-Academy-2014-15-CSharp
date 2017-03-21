@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindOrderTransactions\NorthwindOrderTransactions\bin\Debug\NorthwindOrderTransactions.exe.config
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindOrderTransactions\NorthwindOrderTransactions\bin\Debug\NorthwindOrderTransactions.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindOrderTransactions\NorthwindOrderTransactions\bin\Debug\NorthwindOrderTransactions.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindOrderTransactions\NorthwindOrderTransactions\obj\Debug\NorthwindOrderTransactions.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindOrderTransactions\NorthwindOrderTransactions\obj\Debug\NorthwindOrderTransactions.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindOrderTransactions\NorthwindOrderTransactions\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindOrderTransactions\NorthwindOrderTransactions\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\C#Databases\EntityFramework\NorthwindOrderTransactions\NorthwindOrderTransactions\obj\Debug\NorthwindOrderTransactions.csprojResolveAssemblyReference.cache

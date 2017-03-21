@@ -1,0 +1,46 @@
+﻿@using TwitterLikeApp.Models;
+@model Post
+
+<div class="well well-sm row-fluid post-container">
+
+    @if (@Model.AspNetUserId != null)
+    {
+        <div class="text-success" pull-left>
+            @Model.AspNetUserId.UserName
+        </div>
+    }
+    <div class="text-muted text-right">
+        @Model.CreatedAt
+    </div>
+    <p class="paragraph">
+        @foreach (string str in Model.Content.Split(new char[] { ' ', '#' }))
+        {
+            if (@Model.HashTags.Select(ht => ht.Name).ToList().Contains(str))
+            {
+                <a href="/Posts/ByHashTag/@str">@string.Format("#{0}", str)</a>
+            }
+            else
+            {
+                <span>@string.Format("{0} ", str)</span>
+            }
+        }
+    </p>
+    <div class="text-success text-right">
+        Likes: @Model.Likes
+        @using (Html.BeginForm("Like", "Posts", new { likes = true }, FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @Html.TextBoxFor(model => model.Id, new { type = "hidden" })
+            <input type="submit" value="Like" class="btn btn-success btn-sm" />
+        }
+    </div>
+    <div class="text-danger text-right">
+        Dislikes: @Model.Dislikes
+        @using (Html.BeginForm("Like", "Posts", new { likes = false }, FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @Html.TextBoxFor(model => model.Id, new { type = "hidden" })
+            <input type="submit" value="Dislike" class="btn btn-danger btn-sm" />
+        }
+    </div>
+</div>

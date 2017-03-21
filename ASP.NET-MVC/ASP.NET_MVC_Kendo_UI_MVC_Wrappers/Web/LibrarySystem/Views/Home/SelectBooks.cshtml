@@ -1,0 +1,27 @@
+﻿@model IEnumerable<LibrarySystem.Data.Models.Book>
+@{
+    ViewBag.Title = "SelectBooks";
+}
+
+<h2>Search Results for Query "@ViewBag.searchTerm"</h2>
+
+<ul>
+    @if (Model.Any())
+    {
+        foreach (var book in Model)
+        {
+            <li>
+                @Html.ActionLink("\"" + book.Title + "\" by " + string.Join(", ", book.Authors.Select(a => a.Name)), "Details", "Home", new { id = book.Id}, null)
+                <span>
+                    (Caregory: @book.Category.Name)
+                </span>
+            </li>
+        }
+    }
+    else
+    {
+            <li>There is no book or author that contains @ViewBag.searchTerm</li>
+    }
+</ul>
+
+@Html.ActionLink("Back to books", "Index", "Home")

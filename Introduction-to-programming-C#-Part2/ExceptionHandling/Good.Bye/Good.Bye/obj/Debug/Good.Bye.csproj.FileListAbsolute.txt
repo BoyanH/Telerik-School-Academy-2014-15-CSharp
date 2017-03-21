@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Good.Bye\Good.Bye\bin\Debug\Good.Bye.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Good.Bye\Good.Bye\bin\Debug\Good.Bye.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Good.Bye\Good.Bye\bin\Debug\Good.Bye.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Good.Bye\Good.Bye\obj\Debug\Good.Bye.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Good.Bye\Good.Bye\obj\Debug\Good.Bye.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Good.Bye\Good.Bye\obj\Debug\Good.Bye.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Good.Bye\Good.Bye\bin\Debug\Good.Bye.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Good.Bye\Good.Bye\obj\Debug\Good.Bye.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Good.Bye\Good.Bye\bin\Debug\Good.Bye.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Good.Bye\Good.Bye\bin\Debug\Good.Bye.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Good.Bye\Good.Bye\obj\Debug\Good.Bye.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\ExceptionHandling\Good.Bye\Good.Bye\obj\Debug\Good.Bye.pdb

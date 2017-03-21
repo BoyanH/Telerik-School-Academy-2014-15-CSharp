@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Numbers.Divideable\Numbers.Divideable\bin\Debug\Numbers.Divideable.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Numbers.Divideable\Numbers.Divideable\bin\Debug\Numbers.Divideable.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Numbers.Divideable\Numbers.Divideable\bin\Debug\Numbers.Divideable.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Numbers.Divideable\Numbers.Divideable\obj\Debug\Numbers.Divideable.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Numbers.Divideable\Numbers.Divideable\obj\Debug\Numbers.Divideable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Generic.Reimplementation\Generic.Reimplementation\bin\Debug\Generic.Reimplementation.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Generic.Reimplementation\Generic.Reimplementation\bin\Debug\Generic.Reimplementation.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Generic.Reimplementation\Generic.Reimplementation\bin\Debug\Generic.Reimplementation.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Generic.Reimplementation\Generic.Reimplementation\obj\Debug\Generic.Reimplementation.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Generic.Reimplementation\Generic.Reimplementation\obj\Debug\Generic.Reimplementation.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\DefiningClassesII\Generic.Reimplementation\Generic.Reimplementation\obj\Debug\Generic.Reimplementation.pdb

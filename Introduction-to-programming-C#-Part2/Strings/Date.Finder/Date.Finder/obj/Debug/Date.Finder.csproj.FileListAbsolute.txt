@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Finder\Date.Finder\bin\Debug\Date.Finder.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Finder\Date.Finder\bin\Debug\Date.Finder.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Finder\Date.Finder\bin\Debug\Date.Finder.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Finder\Date.Finder\obj\Debug\Date.Finder.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Finder\Date.Finder\obj\Debug\Date.Finder.pdb

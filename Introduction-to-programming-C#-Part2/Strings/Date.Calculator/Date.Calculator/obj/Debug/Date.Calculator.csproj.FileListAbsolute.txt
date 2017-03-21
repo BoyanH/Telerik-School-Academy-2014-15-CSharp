@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Calculator\Date.Calculator\bin\Debug\Date.Calculator.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Calculator\Date.Calculator\bin\Debug\Date.Calculator.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Calculator\Date.Calculator\bin\Debug\Date.Calculator.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Calculator\Date.Calculator\obj\Debug\Date.Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Calculator\Date.Calculator\obj\Debug\Date.Calculator.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.Calculator\Date.Calculator\obj\Debug\Date.Calculator.pdb

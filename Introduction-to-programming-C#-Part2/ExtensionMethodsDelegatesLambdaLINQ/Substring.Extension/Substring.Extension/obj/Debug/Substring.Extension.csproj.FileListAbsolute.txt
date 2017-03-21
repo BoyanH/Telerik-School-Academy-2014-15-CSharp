@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Substring.Extension\Substring.Extension\bin\Debug\Substring.Extension.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Substring.Extension\Substring.Extension\bin\Debug\Substring.Extension.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Substring.Extension\Substring.Extension\bin\Debug\Substring.Extension.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Substring.Extension\Substring.Extension\obj\Debug\Substring.Extension.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Substring.Extension\Substring.Extension\obj\Debug\Substring.Extension.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\ExtensionMethodsDelegatesLambdaLINQ\Substring.Extension\Substring.Extension\obj\Debug\Substring.Extension.pdb

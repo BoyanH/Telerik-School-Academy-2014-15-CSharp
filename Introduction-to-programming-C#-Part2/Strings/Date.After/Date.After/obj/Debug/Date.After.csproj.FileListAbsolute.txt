@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.After\Date.After\bin\Debug\Date.After.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.After\Date.After\bin\Debug\Date.After.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.After\Date.After\bin\Debug\Date.After.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.After\Date.After\obj\Debug\Date.After.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.After\Date.After\obj\Debug\Date.After.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\Date.After\Date.After\obj\Debug\Date.After.pdb

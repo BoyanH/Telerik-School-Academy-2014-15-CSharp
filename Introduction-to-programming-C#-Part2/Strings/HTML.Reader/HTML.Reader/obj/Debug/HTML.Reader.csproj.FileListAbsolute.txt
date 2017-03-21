@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Reader\HTML.Reader\bin\Debug\HTML.Reader.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Reader\HTML.Reader\bin\Debug\HTML.Reader.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Reader\HTML.Reader\bin\Debug\HTML.Reader.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Reader\HTML.Reader\obj\Debug\HTML.Reader.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Reader\HTML.Reader\obj\Debug\HTML.Reader.pdb

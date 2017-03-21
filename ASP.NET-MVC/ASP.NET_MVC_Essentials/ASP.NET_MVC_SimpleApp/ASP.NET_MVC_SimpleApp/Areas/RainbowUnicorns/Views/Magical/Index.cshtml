@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+<h3>Index Page</h3>
+<div class="container">
+    <p>
+        It is pretty lame to come all the way to the unicron world, and not check out their special powers!
+        <br />
+        @Html.ActionLink("Activate Special Poweeeeeers", "ActivateSpecialPower", "Magical", new { area = "RainbowUnicorns" }, new { @class = "navbar-brand" })
+    </p>
+</div>
+

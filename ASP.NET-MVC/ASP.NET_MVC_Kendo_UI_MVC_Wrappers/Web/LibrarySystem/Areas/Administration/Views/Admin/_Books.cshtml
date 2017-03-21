@@ -1,0 +1,60 @@
+﻿@using LibrarySystem.Areas.Administration.ViewModels;
+@{
+    ViewBag.Title = "Index";
+    const string controllerName = "Admin";
+}
+
+<h2>Books</h2>
+
+@(Html.Kendo()
+    .Grid<BookViewModel>()
+    .Name("grid-book")
+    .Columns(columns =>
+    {
+        columns.Bound(model => model.Id);
+        columns.Bound(model => model.Title);
+        columns.Bound(model => model.ISBN);
+        columns.Bound(model => model.Website);
+        columns.Bound(model => model.Description);
+        columns.Bound(model => model.Category);
+        columns.Command(command =>
+            {
+                command.Edit();
+                command.Destroy();
+            });
+    })
+    .ToolBar(tool => tool.Create())
+    .Pageable(page =>
+        {
+            page.PreviousNext(true);
+            page.Numeric(true);
+            page.Refresh(true);
+        })
+    .Sortable(sort =>
+        {
+            sort.AllowUnsort(false);
+            sort.SortMode(GridSortMode.SingleColumn);
+        })
+    .Groupable()
+    .Filterable()
+    .Resizable(resize => resize.Columns(true))
+    .Navigatable()
+    .Editable(edit => edit.Mode(GridEditMode.PopUp))
+    .Selectable(select => select.Mode(GridSelectionMode.Multiple).Type(GridSelectionType.Cell))
+    .Events(ev => ev.Change("selectRow"))
+    .DataSource(data =>
+    {
+        data.Ajax()
+            .Model(model => model.Id(c => c.Id))
+            .PageSize(10)
+            .ServerOperation(true)
+            .Events(ev => ev.Error("errorAlert"))
+            .Create(create => create.Action("CreateBooks", controllerName))
+            .Read(read => read.Action("ReadBooks", controllerName))
+            .Update(update => update.Action("UpdateBooks", controllerName))
+            .Destroy(destroy => destroy.Action("DeleteBooks", controllerName));
+    }))
+
+<div id="selected">
+
+</div>

@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\EFQueryToListPerformance.exe.config
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\obj\Debug\EFQueryToListPerformance.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\EFQueryToListPerformance.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\EFQueryToListPerformance.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\obj\Debug\EFQueryToListPerformance.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\obj\Debug\EFQueryToListPerformance.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\NPlusOneQueryProblemAndInclude.exe
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\NPlusOneQueryProblemAndInclude.pdb
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\C#Databases\EntityFrameworkPerformance\EntityFrameworkPerformanceTest\EFQueryToListPerformance\bin\Debug\EntityFramework.SqlServer.xml

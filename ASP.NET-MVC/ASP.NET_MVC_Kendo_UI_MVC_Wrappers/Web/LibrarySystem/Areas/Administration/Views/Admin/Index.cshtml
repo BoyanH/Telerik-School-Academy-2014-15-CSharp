@@ -1,0 +1,45 @@
+﻿<ul class="nav nav-tabs">
+    <li role="presentation" class="tabs active" id="categories" onclick="makeActiveOnClick('#categories');">
+        @Ajax.ActionLink("Categories", "Categories", null,
+    new AjaxOptions
+    {
+        UpdateTargetId = "target",
+        InsertionMode = InsertionMode.Replace
+    }, null)
+    </li>
+
+    <li role="presentation" class="tabs" id="books" onclick="makeActiveOnClick('#books');">
+        @Ajax.ActionLink("Books", "Books", null,
+    new AjaxOptions
+    {
+        UpdateTargetId = "target",
+        InsertionMode = InsertionMode.Replace
+    }, null)
+    </li>
+</ul>
+
+<div id="target">@Html.Action("Categories")</div>
+
+<script>
+    function selectRow() {
+        var selected = $.map(this.select(), function (item) {
+            return $(item).text();
+        });
+
+        $('#selected').text(selected);
+    }
+
+    function errorAlert() {
+        console.log("An error ocurred");
+    }
+
+    function makeActiveOnClick(tab) {
+        $(".tabs").removeClass('active');
+        $(tab).addClass('active');
+
+    }
+</script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

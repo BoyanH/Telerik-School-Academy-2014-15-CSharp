@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\OperatorsExpressionsAndStatements\HomeworkTask11\HomeworkTask11\bin\Debug\HomeworkTask11.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\OperatorsExpressionsAndStatements\HomeworkTask11\HomeworkTask11\bin\Debug\HomeworkTask11.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\OperatorsExpressionsAndStatements\HomeworkTask11\HomeworkTask11\bin\Debug\HomeworkTask11.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\OperatorsExpressionsAndStatements\HomeworkTask11\HomeworkTask11\obj\Debug\HomeworkTask11.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Fundamentals I\OperatorsExpressionsAndStatements\HomeworkTask11\HomeworkTask11\obj\Debug\HomeworkTask11.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\OperatorsExpressionsAndStatements\HomeworkTask11\HomeworkTask11\obj\Debug\HomeworkTask11.pdb

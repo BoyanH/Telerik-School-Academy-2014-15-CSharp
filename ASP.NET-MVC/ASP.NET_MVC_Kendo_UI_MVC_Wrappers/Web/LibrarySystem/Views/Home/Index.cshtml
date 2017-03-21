@@ -1,0 +1,70 @@
+﻿@model IEnumerable<LibrarySystem.Data.Models.Category>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<br />
+<div class="col-md-3 hidden-sm navbar-left search-form pull-right">
+    @using (Html.BeginForm("SelectBooks", "Home", null, FormMethod.Get, new { @class = "navbar-form" }))
+    {
+        <div class="input-group">
+            <input type="text" class="form-control search-box" placeholder="Search by book title / author ..." name="searchTerm" id="searchTerm">
+            <div class="input-group-btn">
+                <input type="submit" value="Search" class="btn btn-default btn-search" />
+            </div>
+        </div>
+    }
+</div>
+<h1>Books</h1>
+@if (Model.Any())
+{
+    foreach (var category in Model)
+    {
+        <h3>@category.Name</h3>
+        if (category.Books.Any())
+        {
+            <ul>
+                @foreach (var item in category.Books)
+                {
+                    int authors = item.Authors.Count;
+                    <li>
+                        @Html.ActionLink("\"" + item.Title + "\"" + " by " + string.Join(", ", item.Authors.Select(u => u.Name)), "Details", "Home", new { id = item.Id }, null)
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p><i>No books in this category</i></p>
+        }
+    }
+}
+else
+{
+    <h3>There are no categories and books</h3>
+}
+
+
+<script>
+    $(document).ready(function () {
+
+        $.ajax({
+
+            method: 'GET',
+            url: '/Home/Search',
+            success: function (data) {
+                $("#searchTerm").kendoAutoComplete({
+                    dataSource: data,
+                    filter: "startswith",
+                    placeholder: "Search an item...",
+                    separator: ", "
+                });
+            },
+            error: function (err) {
+
+                alert(err);
+            }
+        });
+        
+    });
+</script>

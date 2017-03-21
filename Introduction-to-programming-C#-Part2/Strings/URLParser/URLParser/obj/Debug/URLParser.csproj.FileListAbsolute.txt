@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\URLParser\URLParser\bin\Debug\URLParser.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\URLParser\URLParser\bin\Debug\URLParser.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\URLParser\URLParser\bin\Debug\URLParser.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\URLParser\URLParser\obj\Debug\URLParser.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\URLParser\URLParser\obj\Debug\URLParser.pdb

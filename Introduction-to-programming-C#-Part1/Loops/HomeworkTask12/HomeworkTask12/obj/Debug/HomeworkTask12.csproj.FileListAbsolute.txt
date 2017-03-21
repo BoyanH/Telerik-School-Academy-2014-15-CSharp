@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask12\HomeworkTask12\bin\Debug\HomeworkTask12.exe.config
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask12\HomeworkTask12\bin\Debug\HomeworkTask12.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask12\HomeworkTask12\bin\Debug\HomeworkTask12.pdb
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask12\HomeworkTask12\obj\Debug\HomeworkTask12.exe
+C:\Users\Admin\Desktop\C# Fundamentals I\Loops\HomeworkTask12\HomeworkTask12\obj\Debug\HomeworkTask12.pdb

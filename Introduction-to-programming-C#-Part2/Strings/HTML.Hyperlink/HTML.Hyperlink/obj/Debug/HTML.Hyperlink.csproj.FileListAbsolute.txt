@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Hyperlink\HTML.Hyperlink\bin\Debug\HTML.Hyperlink.exe.config
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Hyperlink\HTML.Hyperlink\obj\Debug\HTML.Hyperlink.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Hyperlink\HTML.Hyperlink\bin\Debug\HTML.Hyperlink.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Hyperlink\HTML.Hyperlink\bin\Debug\HTML.Hyperlink.pdb
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Hyperlink\HTML.Hyperlink\obj\Debug\HTML.Hyperlink.exe
+C:\Users\Admin\Desktop\C#FundamentalsII\Strings\HTML.Hyperlink\HTML.Hyperlink\obj\Debug\HTML.Hyperlink.pdb
